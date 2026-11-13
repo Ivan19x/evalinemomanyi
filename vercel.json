@@ -1,0 +1,5 @@
+{
+  "installCommand": "echo 'No dependencies to install'",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist"
+}
